@@ -1,2 +1,2 @@
-# JavaSccript Projects
+# JavaSccript-Projects
  
